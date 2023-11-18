@@ -1,0 +1,251 @@
+#EXTM3U url-tvg="" refresh="3600" 
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-id="260c7bdfd6a9461b3723977fbfaa1071" tvg-name="AKCTV 26 Drama" tvg-logo="https://imgur.com/oVX4aDo.jpg",AKCTV 26 Drama
+http://203.80.165.14/stream/channelid/1601899558?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-id="680098e622fc53959a77f606af254456" tvg-name="AKCTV 25" tvg-logo="https://imgur.com/oVX4aDo.jpg",AKCTV 25
+http://203.80.165.14/stream/channelid/1721237608?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-id="33a1de1954b17793b1fd33403e8c1a27" tvg-name="AKCTV 21" tvg-logo="https://imgur.com/oVX4aDo.jpg",AKCTV 21
+http://203.80.165.14/stream/channelid/434020659?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-id="217db273ef04f079b7e7e4fa30bbfe55" tvg-name="AKCTV 23" tvg-logo="https://imgur.com/oVX4aDo.jpg",AKCTV 23
+http://203.80.165.14/stream/channelid/1941077281?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-id="2f1e34b6baf0c07ad6baae9f9f290d2e" tvg-name="PPCTV 1" tvg-logo="https://imgur.com/oVX4aDo.jpg",PPCTV 1
+http://203.80.165.14/stream/channelid/909385263?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-id="7a1b347c65901ddd6a9ea8ad1982c884" tvg-name="PPCTV 6" tvg-logo="https://imgur.com/oVX4aDo.jpg",PPCTV 6
+http://203.80.165.14/stream/channelid/2083789690?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/PSdMe2m.jpg", MoI TV
+http://103.151.117.162/hls/CTV8/index.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/oxB5gsc.jpg",Thai Drama
+http://203.80.165.14/stream/channelid/556998705?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/BfOmhzH.jpg", KhmerTV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/Ak1Waig.jpg", Fresh News
+http://203.80.165.14/stream/channelid/86226499?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/a4pemNi.jpg", MSJ TV
+http://124.248.165.18:1935/live/myStream.smil/chunklist_w1315998257_b1810000_sleng.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/okCm8Ki.jpg", TV3 HD
+http://203.80.165.14/stream/channelid/964045200?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/EalK9mz.jpg", TV5 HD
+http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1833895073.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/LuVHArZ.jpg", Town HD TV
+https://live.kh.unitysystem.net/live/towntv.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/ERscJj0.jpg", APSARA TV
+http://203.80.165.14/stream/channelid/139735096?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/0sHBX5Q.jpg", BAYON TV HD
+http://203.80.165.14/stream/channelid/1935146454?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/0sHBX5Q.jpg", BAYON TV
+http://203.176.130.123:8989/live/bayontv_480k.stream/chunklist_w993431090.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/jWdqIPW.jpg", BTV NEWS
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/wy3KX6w.jpg", TV9 HD
+http://203.176.130.123:8989/live/ctv9hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/fbotare.jpg", CTV8 HD
+http://203.80.165.14/stream/channelid/1245718249?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/y0nc6uQ.jpg", MYTV
+http://203.80.165.14/stream/channelid/1518243876?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/TqpV6Gx.jpg", CNC
+http://203.80.165.14/stream/channelid/966549443?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/6PsRxsz.jpg", CTN
+http://203.80.165.14/stream/channelid/536374439?profile=pass
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/O0gRgKR.jpg", TVK
+http://203.176.130.123:8989/live/tvk_480k.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://i.imgur.com/FYqvxUM.png", TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/oZbrLP5.jpg", PNN HD
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/oZbrLP5.jpg", PNN
+http://203.176.130.123:8989/live/pnn_480k.stream/chunklist_w1457817293.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/rnkl1hu.jpg", RHM HD
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w211949624_b1800000_sleng.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/Al3Hdah.jpg", HANG MEAS HDTV
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w1526673327_b1800000_sleng.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/yu1wPyN.jpg", SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/P5uiRfH.jpg", NICE TV
+http://220.158.149.14:9999/live/TV00000000000000000124@HHZT;LIVE
+
+#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/dcniccw.jpg", Wiki TV
+http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="ថៃ"tvg-logo="https://imgur.com/WuJmPCl.jpg", TV3 HD
+https://ctrl.laotv.la/live/3HD/index.m3u8
+
+#EXTINF:-1 group-title="ថៃ"tvg-logo="https://imgur.com/ZLBFRON.jpg", TV5 HD
+https://ctrl.laotv.la/live/Thai5/index.m3u8
+
+#EXTINF:-1 group-title="ថៃ"tvg-logo="https://imgur.com/Exwbu2K.jpg", TV7 HD
+https://ctrl.laotv.la/live/Thai7/index.m3u8
+
+#EXTINF:-1 group-title="ថៃ"tvg-logo="https://imgur.com/8aph7BU.jpg", TV8 HD
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ថៃ"tvg-logo="https://imgur.com/omBNXA0.jpg", True4U
+https://ctrl.laotv.la/live/True4U/index.m3u8
+
+#EXTINF:-1 group-title="ថៃ"tvg-logo="https://imgur.com/Pi6sVMm.jpg", TVB Thai
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="ថៃ"tvg-logo="https://i.imgur.com/9apyiI0.png",ONE31
+https://ctrl.laotv.la/live/OneHD/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/Iwi3ZH5.png",Premiere Football HD1
+https://ctrl.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/Iwi3ZH5.png",Premiere Football HD2
+https://ctrl.laotv.la/live/TSport2/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/Iwi3ZH5.png",Premiere Football HD3
+https://ctrl.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/Iwi3ZH5.png",Premiere Football HD4
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/Iwi3ZH5.png",Premiere Football HD5
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/Iwi3ZH5.png",Premiere Football HD7
+https://edge1.laotv.la/live/TSport1/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-id="(no tvg-id)" tvg-name="Asto Super Sport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png/revision/latest?cb=20200922172456",Asto Super Sport
+http://203.80.165.14/stream/channelid/1080902904?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/TPpckSN.png",BeinSport 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/TPpckSN.png",BeinSport 2 
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/TPpckSN.png",BeinSport Premium 1
+http://203.80.165.14/stream/channelid/563769363?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/TPpckSN.png",BeinSport Premium 2
+http://203.80.165.14/stream/channelid/1309393059?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/TPpckSN.png",BeinSport Premium 3
+http://203.80.165.14/stream/channelid/497580184?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/TPpckSN.png",BeinSport EN 1
+http://203.80.165.14/stream/channelid/563769363?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/TPpckSN.png",BeinSport EN 2
+http://203.80.165.14/stream/channelid/497580184?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/TPpckSN.png",BeinSport EN 3
+http://203.80.165.14/stream/channelid/1309393059?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/rvCuPr6.png",True Sports 1
+https://ctrl.laotv.la/live/TrueSport6/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/1fXV2SG.png",True Sports 2
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/69EkMwe.png",True Sports 3
+https://ctrl.laotv.la/live/TrueSport3/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/69EkMwe.png",True Sports 7
+https://ctrl.laotv.la/live/THD7/index.m3u8
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/XaOb7vA.png",Euro Sport
+http://203.80.165.14/stream/channelid/899368136?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/p0LEK2X.png",SkyNet Soprts 3
+http://203.80.165.14/stream/channelid/1724180353?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/p0LEK2X.png",Skynet Sports 1
+http://203.80.165.14/stream/channelid/1175144244?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/p0LEK2X.png",Skynet Sports 2
+http://203.80.165.14/stream/channelid/146758025?profile=pass
+
+#EXTINF:-1 group-title="កីឡា"tvg-logo="https://imgur.com/3hPPhug.png",Snooker
+http://203.80.165.14/stream/channelid/2019055245?profile=pass
+
+#EXTINF:-1 group-title="ពត៌មានអន្តរជាតិ"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-cnn.png",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ពត៌មានអន្តរជាតិ"tvg-logo="https://imgur.com/DfBzBJv.png",BBC World HD
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
+#EXTINF:-1 group-title="ពត៌មានអន្តរជាតិ"tvg-logo="https://imgur.com/undefined.jpg",Bloomberg TV Asia
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+
+#EXTINF:-1 group-title="ពត៌មានអន្តរជាតិ"tvg-logo="https://imgur.com/1SWRvWV.png",Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/GYLxTEf.jpg", Cinemax
+https://ctrl.laotv.la/live/Cinemax/index.m3u8
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/6jqYLxX.jpg", HBO
+https://m2.ballnaja.com:8443/HBOHD/playlist.m3u8
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/6jqYLxX.jpg", HBO HD
+https://ctrl.laotv.la/live/HBO/index.m3u8
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/lwBlmgl.jpg", HBO Family
+https://m2.ballnaja.com:8443/HBOFAMILY/playlist.m3u8
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/SqwhpK3.jpg", HBO Signature
+https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/LdfsFFL.jpg", HBO Hits
+https://m2.ballnaja.com:8443/HBOHITS/playlist.m3u8
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/V5Pga4n.jpg", Hits Movie
+https://m2.ballnaja.com:8443/HITS_MOVIES/playlist.m3u8
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/jY8qzku.jpg", Hits
+https://m2.ballnaja.com:8443/HITS/playlist.m3u8
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/yaO0iTA.jpg", Movie World 1
+https://cdn6.goprimetime.info/feed/202306140918/LC11/index.m3u8
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/yaO0iTA.jpg", Movie World 2
+https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
+
+#EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/yaO0iTA.jpg", Movie World 3
+https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
+
+#EXTINF:-1 group-title="តុក្កតា"tvg-logo="https://imgur.com/mOKoZPl.jpg", Cartoon Network
+http://203.80.165.14/stream/channelid/457761692?profile=pass
+
+#EXTINF:-1 group-title="ឯកសារសត្វ"tvg-logo="https://imgur.com/7Mn6cN9.jpg", Animal Kingdom
+http://203.80.165.14/stream/channelid/723831240?profile=pass
+
+#EXTINF:-1 group-title="ឯកសារសត្វ"tvg-id="34f84ea49cd487ee4163911069aea64c" tvg-name="Discovery" tvg-logo="https://imgur.com/cpcEtvj.jpg",Discovery
+http://203.80.165.14/stream/channelid/609155124?profile=pass
+
+#EXTINF:-1 group-title="កំសាន្ត"tvg-id="(no tvg-id)" tvg-name="WWE" tvg-logo="https://imgur.com/l9COIym.jpg",WWE
+http://203.80.165.14/stream/channelid/1934674743?profile=pass
+
+#EXTINF:-1 group-title="កំសាន្ត"tvg-id="(no tvg-id)" tvg-name="MTV Live" tvg-logo="https://imgur.com/Bl4v1MY.jpg",MTV Live
+http://203.80.165.14/stream/channelid/1332215303?profile=pass
