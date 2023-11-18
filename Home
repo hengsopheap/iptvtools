@@ -235,7 +235,7 @@ https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
 #EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/yaO0iTA.jpg", Movie World 3
 https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
 
-#EXTINF:-1 group-title="តុក្កតា"tvg-logo="https://imgur.com/mOKoZPl.jpg", Cartoon Network
+#EXTINF:-1 group-title="តុក្កតា"tvg-logo="https://imgur.com/mOKoZPl.jpg", Cartoon Network 1
 http://203.80.165.14/stream/channelid/457761692?profile=pass
 
 #EXTINF:-1 group-title="តុក្កតា"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
