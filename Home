@@ -90,9 +90,6 @@ http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunkli
 #EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/yu1wPyN.jpg", SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 
-#EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/P5uiRfH.jpg", NICE TV
-http://220.158.149.14:9999/live/TV00000000000000000124@HHZT;LIVE
-
 #EXTINF:-1 group-title="ខ្មែរ"tvg-logo="https://imgur.com/dcniccw.jpg", Wiki TV
 http://wikitv-streaming.poscarasia.com:1935/live/ngrp:myStream_all/playlist.m3u8
 
@@ -235,10 +232,7 @@ https://cdn6.goprimetime.info/feed/202306140918/LC53/index.m3u8
 #EXTINF:-1 group-title="ភាពយន្ត"tvg-logo="https://imgur.com/yaO0iTA.jpg", Movie World 3
 https://cdn6.goprimetime.info/feed/202306140918/LC2/index.m3u8
 
-#EXTINF:-1 group-title="តុក្កតា"tvg-logo="https://imgur.com/mOKoZPl.jpg", Cartoon Network 1
-http://203.80.165.14/stream/channelid/457761692?profile=pass
-
-#EXTINF:-1 group-title="តុក្កតា"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
+#EXTINF:-1 group-title="តុក្កតា"tvg-logo="https://imgur.com/mOKoZPl.jpg", Cartoon Network 
 http://203.80.165.14/stream/channelid/457761692?profile=pass
 
 #EXTINF:-1 group-title="តុក្កតា"tvg-id="(no tvg-id)"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network HD
