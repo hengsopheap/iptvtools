@@ -9,8 +9,10 @@ http://203.80.165.14/stream/channelid/1721237608?profile=pass
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APSARA" tvg-logo="https://static.wikia.nocookie.net/closinglogogroup/images/c/cf/39295018_2249706341927284_99135047851835392_n.png/revision/latest?cb=20190429200611" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",APSARA
 http://203.80.165.14/stream/channelid/139735096?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAYON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",BAYON
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAYON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",BAYON HD
 http://203.80.165.14/stream/channelid/1935146454?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAYON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",BAYON
+http://203.176.130.123:8989/live/bayontv_480k.stream/chunklist_w993431090.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest?cb=20191210054257" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",BTV
 http://203.80.165.14/stream/channelid/391283113?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CNC
