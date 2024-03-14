@@ -39,7 +39,7 @@ http://203.80.165.14/stream/channelid/909385263?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV 6" tvg-logo="https://cambodia.mom-gmr.org/typo3temp/_processed_/b/b/csm_600-400_company_import_e4e87f3bdd.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PPCTV 6
 http://203.80.165.14/stream/channelid/2083789690?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SEATV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/SEATV.png/revision/latest?cb=20191210054301" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",SEATV
-http://203.80.165.14/stream/channelid/1155591455?profile=pass
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Town TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",Town TV
 https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV3
