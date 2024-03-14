@@ -20,7 +20,7 @@ http://103.25.92.30:10016/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV8" tvg-logo="https://4.bp.blogspot.com/-rQe8CQEC28I/XEHaT1PudII/AAAAAAAAIWw/qC3aN1BZcdAXGAH0ZcE4H7N2JxvMGRSggCLcBGAs/s1600/ctv8.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CTV8
 https://hls-pull-happywatch99.cdnvideo.asia/live/ctv8_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRESH NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Freshnews-logo.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",FRESH NEWS
-http://203.80.165.14/stream/channelid/86226499?profile=pass
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HangMeas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest?cb=20191210055040" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",HangMeas
 http://203.80.165.14/stream/channelid/1448884111?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RHM" tvg-logo="https://1.bp.blogspot.com/-VU4YUc5YbZ8/XlhKNQWZzfI/AAAAAAAAJ8Y/c5qc3uUxJtUi1E5LR_PakyoZi-7OeSy8gCLcBGAsYHQ/s1600/RHM.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",RHM
