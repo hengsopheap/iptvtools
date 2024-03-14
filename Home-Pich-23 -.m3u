@@ -69,9 +69,9 @@ http://203.80.165.14/stream/channelid/1059748491?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 ប៉ុស្តិ៍ថៃ |Thailand Channel|",Thai 3
 http://203.80.165.14/stream/channelid/518925431?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thai 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" group-title="🇹🇭 ប៉ុស្តិ៍ថៃ |Thailand Channel|",Thai 5
-http://203.80.165.14/stream/channelid/1697052316?profile=pass
+https://hls-pull-happywatch99.cdnvideo.asia/live/tv5thai240306/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thai7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="🇹🇭 ប៉ុស្តិ៍ថៃ |Thailand Channel|",Thai7
-http://203.80.165.14/stream/channelid/894912781?profile=pass
+https://hls-pull-happywatch99.cdnvideo.asia/live/tv7thai240306/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Work Point" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/tm-img-logo-eo/820eac5383e211ec911101117567899b.jpg" group-title="🇹🇭 ប៉ុស្តិ៍ថៃ |Thailand Channel|",Work Point
 http://203.80.165.14/stream/channelid/323277719?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA EUROPE" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live157_mobile.png" group-title="🎥 កំសាន្ដ |Entertainment|",CINEMA EUROPE
