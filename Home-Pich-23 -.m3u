@@ -43,7 +43,7 @@ http://203.80.165.14/stream/channelid/1155591455?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Town TV" tvg-logo="https://1.bp.blogspot.com/-yzpBWLQqQMk/XllMwg91IgI/AAAAAAAAJ-A/vJoNHDr4QI4hvaZ9gXwpzZ9wDjDYB0ipgCLcBGAsYHQ/s1600/town-hdtv.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",Town TV
 http://203.80.165.14/stream/channelid/558436782?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV3
-http://203.80.165.14/stream/channelid/964045200?profile=pass
+http://103.25.92.30:10022/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/14-400_import.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV5
 http://203.80.165.14/stream/channelid/1998895537?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png/revision/latest?cb=20191208065632" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV9
