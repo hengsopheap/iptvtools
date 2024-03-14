@@ -11,13 +11,12 @@ http://203.80.165.14/stream/channelid/1601899558?profile=pass
 https://live.kh.malimarcdn.com/live/apsara.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAYON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",BAYON HD
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
-https://hls-pull-happywatch99.cdnvideo.asia/live/bayon240306/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest?cb=20191210054257" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",BTV
 https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CNC
-http://203.80.165.14/stream/channelid/966549443?profile=pass
+http://103.25.92.30:10017/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CTN
-http://203.80.165.14/stream/channelid/536374439?profile=pass
+http://103.25.92.30:10016/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTV8" tvg-logo="https://4.bp.blogspot.com/-rQe8CQEC28I/XEHaT1PudII/AAAAAAAAIWw/qC3aN1BZcdAXGAH0ZcE4H7N2JxvMGRSggCLcBGAs/s1600/ctv8.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CTV8
 http://203.80.165.14/stream/channelid/1245718249?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRESH NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Freshnews-logo.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",FRESH NEWS
