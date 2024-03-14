@@ -51,7 +51,7 @@ https://hls-pull-happywatch99.cdnvideo.asia/live/tv9_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVK2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/96/d5/ee96d595-c6c6-c179-85a4-8f462c5a80bd/source/512x512bb.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TVK2
-http://203.80.165.14/stream/channelid/157272330?profile=pass
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netlink TV" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lao PSTV" tvg-logo="https://img.laotv.la/xmediatv/public/upload/100036087499/20230609/video/a67aa62c-dd80-4d37-8925-6ed364a8c753.png" group-title="🇹🇭 ប៉ុស្តិ៍ថៃ |Thailand Channel|",Lao PSTV
