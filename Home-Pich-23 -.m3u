@@ -33,7 +33,7 @@ http://203.80.165.14/stream/channelid/1582855399?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MYTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MYTV_2008.png/revision/latest?cb=20191209085802" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",MYTV
 http://203.80.165.14/stream/channelid/1518243876?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest?cb=20170424225823" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PNN HD
-http://203.80.165.14/stream/channelid/41447817?profile=pass
+https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest?cb=20170424225823" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PNN
 http://203.176.130.123:8989/live/pnn_480k.stream/chunklist_w1457817293.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV 1" tvg-logo="https://cambodia.mom-gmr.org/typo3temp/_processed_/b/b/csm_600-400_company_import_e4e87f3bdd.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PPCTV 1
