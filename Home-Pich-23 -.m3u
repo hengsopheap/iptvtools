@@ -24,7 +24,7 @@ https://hls-pull-happywatch99.cdnvideo.asia/live/ctv8_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FRESH NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Freshnews-logo.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",FRESH NEWS
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HangMeas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/HMHDTV.png/revision/latest?cb=20191210055040" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",HangMeas
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w977310138_b1800000_sleng.m3u8
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RHM" tvg-logo="https://1.bp.blogspot.com/-VU4YUc5YbZ8/XlhKNQWZzfI/AAAAAAAAJ8Y/c5qc3uUxJtUi1E5LR_PakyoZi-7OeSy8gCLcBGAsYHQ/s1600/RHM.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",RHM
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KhmerTV" tvg-logo="https://archive.org/download/dog_gear_live_Logo/khmertv.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",KhmerTV
