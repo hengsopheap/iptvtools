@@ -12,7 +12,7 @@ https://live.kh.malimarcdn.com/live/apsara.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAYON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",BAYON HD
 https://live.kh.malimarcdn.com/live/bayonhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/BTV_news.png/revision/latest?cb=20191210054257" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",BTV
-https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUQkZOekl3TmtVeE9UQkRORFEwTWtVNU5UaEdOakZGT1VaR05UYzVORE0wSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNC" tvg-logo="https://cnc.com.kh/img/logo.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CNC
 http://103.25.92.30:10017/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CTN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/CTN_2003.png/revision/latest?cb=20191209085803" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CTN
@@ -27,11 +27,15 @@ http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RHM" tvg-logo="https://1.bp.blogspot.com/-VU4YUc5YbZ8/XlhKNQWZzfI/AAAAAAAAJ8Y/c5qc3uUxJtUi1E5LR_PakyoZi-7OeSy8gCLcBGAsYHQ/s1600/RHM.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",RHM
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HangMeas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Hang_Meas_Now_UHDTV_Logo_2023-Present.png/640px-Hang_Meas_Now_UHDTV_Logo_2023-Present.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",Hang Meas Now
+https://live.kh.malimarcdn.com/live/btv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KhmerTV" tvg-logo="https://archive.org/download/dog_gear_live_Logo/khmertv.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSJTV" tvg-logo="https://1.bp.blogspot.com/-RljXKcot-8M/XllMv3EHvDI/AAAAAAAAJ94/VXmIbNbf-GAiaVXC5x6etgYtpFef-6-iwCLcBGAsYHQ/s1600/msjtv.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",MSJTV
 http://203.80.165.14/stream/channelid/1582855399?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest?cb=20170424225823" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PNN HD
+TINF:-1 tvg-id="(no tvg-id)" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest?cb=20170424225823" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PNN HD 1
+https://cdnssc.wewatch.asia/b3A9WTJsa1BUVkdPVFJEUVRFNU1EQkVPRFF3TlRaQ016VkdRVE5ETnprNU4wRTRPVU5GSm5OMFBXeHBkbVVtYzNSNVBXaHNjdyUzZCUzZCZ0b2s9Njk3YmU0ODE1ZWNiNjc2ZjBhNjk2ZTNjNzZhMWRiM2U2YTA5YzYyOCZkZXZpZD1kY2ZhZWZhNzNhNjM4ZGZhMmNjZGM2M2VmNzUyZTVjNw%3D%3D/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest?cb=20170424225823" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PNN HD 2
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV 1" tvg-logo="https://cambodia.mom-gmr.org/typo3temp/_processed_/b/b/csm_600-400_company_import_e4e87f3bdd.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PPCTV 1
 http://203.80.165.14/stream/channelid/909385263?profile=pass
