@@ -69,7 +69,8 @@ https://hls-pull-happywatch99.cdnvideo.asia/live/d_music_v$$240211$/playlist.m3u
 http://203.80.165.14/stream/channelid/316968350?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBT THAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png" group-title="🇹🇭 ប៉ុស្តិ៍ថៃ |Thailand Channel|",NBT THAI
 https://hls-pull-happywatch99.cdnvideo.asia/live/onethai240306/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 ប៉ុស្តិ៍ថៃ |Thailand Channel|",Thai 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thai 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png" group-title="🇹🇭 ប៉ុស្តិ៍ថៃ |Thailand Channel|", 3 HD
+#EXTVLCOPT:http-user-agent=Android ExoPlayer/2.17.0
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Thai 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" group-title="🇹🇭 ប៉ុស្តិ៍ថៃ |Thailand Channel|",Thai 5
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch5hd3/index.m3u8
