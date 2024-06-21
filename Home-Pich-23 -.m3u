@@ -1,10 +1,12 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AKCTV 21" tvg-logo="https://aaa1.histechs.com/AAA/img/vs/icon/channel/akctv21.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",AKCTV 21
-http://203.80.165.14/stream/channelid/434020659?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AKCTV 23" tvg-logo="https://aaa1.histechs.com/AAA/img/vs/icon/channel/akctv23.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",AKCTV 23
-http://203.80.165.14/stream/channelid/1941077281?profile=pass
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AKCTV 25" tvg-logo="https://aaa1.histechs.com/AAA/img/vs/icon/channel/akctv25.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",AKCTV 25
-http://203.80.165.14/stream/channelid/1721237608?profile=pass
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CamTV M1 (360p)" tvg-logo="https://i.imgur.com/gxIos3E.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CamTV M1 (360p)
+http://103.25.92.30:10001/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CamTV M2 (360p)" tvg-logo="https://i.imgur.com/3qRD4Ud.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CamTV M2 (360p)
+http://103.25.92.30:10002/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CamTV M3 (480p)" tvg-logo="https://i.imgur.com/4VAARgE.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CamTV M3 (480p)
+http://103.25.92.30:10003/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CamTV K1 (360p)" tvg-logo="https://i.imgur.com/qsu46rk.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CamTV K1 (360p)
+http://103.25.92.30:10004/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AKCTV 26 Drama" tvg-logo="https://aaa1.histechs.com/AAA/img/vs/icon/channel/akctv26.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",AKCTV 26 Drama
 http://203.80.165.14/stream/channelid/1601899558?profile=pass
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APSARA" tvg-logo="https://static.wikia.nocookie.net/closinglogogroup/images/c/cf/39295018_2249706341927284_99135047851835392_n.png/revision/latest?cb=20190429200611" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",APSARA
