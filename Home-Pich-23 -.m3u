@@ -34,7 +34,7 @@ http://103.25.92.30:10024/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KhmerTV" tvg-logo="https://archive.org/download/dog_gear_live_Logo/khmertv.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSJTV" tvg-logo="https://1.bp.blogspot.com/-RljXKcot-8M/XllMv3EHvDI/AAAAAAAAJ94/VXmIbNbf-GAiaVXC5x6etgYtpFef-6-iwCLcBGAsYHQ/s1600/msjtv.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",MSJTV
-http://203.80.165.14/stream/channelid/1582855399?profile=pass
+http://124.248.165.18:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest?cb=20170424225823" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PNN HD
 https://live.kh.malimarcdn.com/live/pnntvhd.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV 1" tvg-logo="https://cambodia.mom-gmr.org/typo3temp/_processed_/b/b/csm_600-400_company_import_e4e87f3bdd.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PPCTV 1
@@ -48,9 +48,9 @@ https://live.kh.malimarcdn.com/live/towntv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Tv3cambodia2004.png/revision/latest?cb=20191208065059" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV3
 http://103.25.92.30:10022/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/14-400_import.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV5
-https://hls-pull-happywatch99.cdnvideo.asia/live/tv5_v$$240211$/playlist.m3u8
+https://live.kh.malimarcdn.com/live/tv5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Tv9cambodia.png/revision/latest?cb=20191208065632" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TV9
-https://hls-pull-happywatch99.cdnvideo.asia/live/tv9_v$$240211$/playlist.m3u8
+https://live.kh.unitysystem.net/live/tv9.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TVK2" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ee/96/d5/ee96d595-c6c6-c179-85a4-8f462c5a80bd/source/512x512bb.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",TVK2
