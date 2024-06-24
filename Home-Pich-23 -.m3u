@@ -13,6 +13,12 @@ http://103.25.92.30:10005/2.m3u8
 https://live.happywatch99.com/live/pp_digital_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV3 (360p)" tvg-logo="https://i.imgur.com/jgrdWql.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PPCTV3 (360p)
 http://103.25.92.30:10049/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV6 HD (360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv6_logo_v2.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PPCTV6 HD (360p)
+http://103.25.92.30:10056/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV9 HD (360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv9_logo_v2.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PPCTV9 HD (360p)
+http://103.25.92.30:10028/2.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPCTV10 HD (360p)" tvg-logo="https://cdn-images.ppctvworld.com/ppctvworld/channels/logo/ppctv10_logo_v2.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PPCTV10 HD (360p)
+http://103.25.92.30:10029/2.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="APSARA" tvg-logo="https://static.wikia.nocookie.net/closinglogogroup/images/c/cf/39295018_2249706341927284_99135047851835392_n.png/revision/latest?cb=20190429200611" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",APSARA
 https://live.kh.malimarcdn.com/live/apsara.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BAYON" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Bayon_tv.png/revision/latest/scale-to-width-down/200?cb=20191209085913" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",BAYON HD
