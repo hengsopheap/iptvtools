@@ -71,6 +71,9 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netlink TV" tvg-logo="https://netlinkbroadcaster.com/_next/image?url=%2FNetlinkTV.png&w=256&q=75" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",Netlink TV
 https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPM HDTV (720p)" tvg-logo="https://moi-static.sgp1.digitaloceanspaces.com/uploads/station/avatar_image/307/spmtvlogo.png" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",SPM HDTV (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://live.happywatch99.com/live/shshdtv_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PP Digital" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1183.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",PP Digital
 https://hls-pull-happywatch99.cdnvideo.asia/live/ppdhdtv_v$$240211$/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CCOC" tvg-logo="https://happywatch99.com/assets/global/live_thumb/1184.jpg" group-title="🇰🇭 ប៉ុស្តិ៍ខ្មែរ |Khmer Channel|",CCOC
